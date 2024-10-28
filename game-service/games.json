@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Super Mario Bros",
+        "description": "Un clásico juego de plataformas.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Super_Mario_Bros._3.png"
+    },
+    {
+        "id": 2,
+        "name": "The Legend of Zelda",
+        "description": "Una aventura épica en un mundo de fantasía.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/The_Legend_of_Zelda_%28video_game%29_cover.png"
+    },
+    {
+        "id": 3,
+        "name": "Minecraft",
+        "description": "Un juego de construcción y aventuras en un mundo abierto.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_logo.png"
+    }
+]
